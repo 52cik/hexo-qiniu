@@ -1,0 +1,23 @@
+{
+  "name": "hexo-qiniu",
+  "version": "0.1.0",
+  "description": "hexo 七牛插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52cik/hexo-qiniu.git"
+  },
+  "author": "52cik <fe.52cik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/52cik/hexo-qiniu/issues"
+  },
+  "homepage": "https://github.com/52cik/hexo-qiniu#readme",
+  "dependencies": {
+    "minimatch": "^3.0.0",
+    "node-qiniu": "^6.2.0"
+  }
+}
