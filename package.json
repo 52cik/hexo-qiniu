@@ -2,7 +2,7 @@
   "name": "hexo-qiniu",
   "version": "0.1.0",
   "description": "hexo 七牛插件",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
